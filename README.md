@@ -3,17 +3,17 @@
 ## I'm a Full Stack Developer!! 
 
 - :pill: I’m currently working at Highmark Health as a Full Stack Developer (Django + React)
-- :money_with_wings: I have worked with Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)
+- :money_with_wings: I worked with Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)
 - :computer: I worked with Tata Consultancy Limited as a Systems Engineer (Microsoft SharePoint Web Solution Provider)
 - 👯 I’m looking to collaborate with other Full Stack Developers
 - 🥅 2020 Goals: Develop industry specific (Finance/Healthcare) Full Stack web projects
-- ⚡ Fun facts: I enjoy Public Speaking and am currently a CC4 Level speaker at Toastmasters
+- ⚡ Fun facts: I enjoy public speaking and am currently a CC4 Level speaker at Toastmasters
 
 ### Connect with me:
 
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 <br />
 
@@ -42,11 +42,9 @@
 ### 📺 Latest Web Development Projects
 
 <!-- GITPROJECT:START -->
-- [A](https://www.youtube.com/watch?v=RD2mxxchCCo)
-- [Responsive Mega Menu and Multi Level Dropdown | Animations | HTML, CSS, & JavaScript Tutorial (2020)](https://www.youtube.com/watch?v=8qO5QmD5gfM)
-- [Best Explanation of JavaScript Null vs Undefined! #shorts](https://www.youtube.com/watch?v=fCGswW7fruY)
-- [Top VS Code Updates | v1.51 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=Vt7omOyyjrc)
-- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
+- [Outlook Based Services via Alexa](https://github.com/sonal-p-das/capstone_cmu_vawe)
+- [Gallivanter | A Social Web PLatform to share travel stories | HTML5, Node.js, MongoDB, Bootstrap](https://github.com/sonal-p-das/Gallivanter)
+- [Carnegie Mellon University - Policy Innovation Lab Playbook](https://github.com/sonal-p-das/policy-lab-playbook)
 <!-- GITPROJECT:END -->
 
 ➡️ [more projects...](https://github.com/sonal-p-das?tab=repositories)
@@ -63,7 +61,12 @@
 
 </details>
 
+---
+
+<img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true" />
+
 
 [HighmarkLinkedIn]: http://vsCodeHero.com
 [Gmail]: sonald@alumni.cmu.edu
 [linkedin]: https://www.linkedin.com/in/sonalpdas/
+[Instagram]: https://www.instagram.com/the_spd/
