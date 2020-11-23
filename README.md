@@ -51,19 +51,23 @@
 ---
 
 <details>
-    <summary>:zap: Recent Github Activity</summary>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 💪 Created a React app repo 
 2. 💪 Created a Django-React app repo
 3. 💪 Created a README.md for Github profile
 <!--END_SECTION:activity-->
+
 </details>
 
+<br />
 <details>
     <summary>:zap: Recent Github Stats</summary>
 <img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true&count_private=true" />
 </details>
 
+<br />
 <details>
     <summary>:zap: Reference Resources</summary>
 <!--README_Resources:START-->
