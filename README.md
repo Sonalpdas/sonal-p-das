@@ -1,6 +1,6 @@
 ## Hello, I'm Sonal Das 👋
 
-## I'm a Full Stack Developer!! 
+## I'm a Full Stack Developer!
 
 - :pill: I’m currently working at Highmark Health as a Full Stack Developer (Django + React)
 - :money_with_wings: I worked with Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)
@@ -31,7 +31,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][LinkedIn]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][LinkedIn]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][LinkedIn]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][LinkedIn]
 [<img align="left" alt="SharePoint" width="26px" src="https://developer.microsoft.com/en-us/office/blogs/wp-content/uploads/2019/03/SharePoint.256x256x32-100x100.png" />][LinkedIn]
 
 <br />
@@ -64,7 +63,7 @@
 
 ---
 
-<img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true" />
+<img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true&count_private=true" />
 
 
 [HighmarkLinkedIn]: http://vsCodeHero.com
