@@ -49,6 +49,7 @@
 ➡️ [more projects...](https://github.com/sonal-p-das?tab=repositories)
 
 ---
+
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
@@ -65,10 +66,10 @@
 
 <details>
     <summary>:zap: Reference Resources</summary>
-<!--README Resources:START-->
+<!--README_Resources:START-->
 - [codeSTACKr - GITHUB PROFILE README](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md)
 - [Anurag Hazra - GITHUB README STATS](https://github.com/anuraghazra/github-readme-stats)
-<!--README Resources:END-->
+<!--README_Resources:END-->
 </details>
 
 [HighmarkLinkedIn]: http://vsCodeHero.com
