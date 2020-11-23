@@ -55,8 +55,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Created a Django-React app repo
-2. 💪 Created a README.md for Github profile
+1. 💪 Created a React app repo 
+2. 💪 Created a Django-React app repo
+3. 💪 Created a README.md for Github profile
 <!--END_SECTION:activity-->
 
 </details>
