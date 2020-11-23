@@ -1,6 +1,6 @@
 ## Hello, I'm Sonal Das 👋
 
-## I'm a Full Stack Developer!
+## I'm a Full Stack Developer, Public Speaker and Netflix binge-watcher!
 
 - :pill: I’m currently working at Highmark Health as a Full Stack Developer (Django + React)
 - :money_with_wings: I worked with Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)
@@ -58,13 +58,11 @@
 <!--END_SECTION:activity-->
 </details>
 
----
 <details>
     <summary>:zap: Recent Github Stats</summary>
 <img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true&count_private=true" />
 </details>
 
----
 <details>
     <summary>:zap: Reference Resources</summary>
 <!--README Resources:START-->
