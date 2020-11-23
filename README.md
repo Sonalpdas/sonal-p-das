@@ -61,19 +61,17 @@
 
 </details>
 
-<br />
 <details>
     <summary>:zap: Recent Github Stats</summary>
-<img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true&count_private=true" />
+    <img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true&count_private=true" />
 </details>
 
-<br />
 <details>
     <summary>:zap: Reference Resources</summary>
-<!--README_Resources:START-->
-- [codeSTACKr - GITHUB PROFILE README](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md)
-- [Anurag Hazra - GITHUB README STATS](https://github.com/anuraghazra/github-readme-stats)
-<!--README_Resources:END-->
+<!--START_SECTION:activity-->
+1. [codeSTACKr - GITHUB PROFILE README](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md)
+2. [Anurag Hazra - GITHUB README STATS](https://github.com/anuraghazra/github-readme-stats)
+<!--END_SECTION:activity-->
 </details>
 
 [HighmarkLinkedIn]: http://vsCodeHero.com
