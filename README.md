@@ -71,6 +71,7 @@
 <details>
     <summary>:zap: Reference Resources</summary>
 <!--START_SECTION:activity-->
+
 - [codeSTACKr - GITHUB PROFILE README](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md)
 - [Anurag Hazra - GITHUB README STATS](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
