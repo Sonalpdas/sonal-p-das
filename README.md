@@ -34,6 +34,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" />][LinkedIn]
 [<img align="left" alt="SharePoint" width="26px" src="https://developer.microsoft.com/en-us/office/blogs/wp-content/uploads/2019/03/SharePoint.256x256x32-100x100.png" />][LinkedIn]
 
+<p  align="right"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Coder GIF" width="400" height="400">
+
 <br />
 <br />
 
