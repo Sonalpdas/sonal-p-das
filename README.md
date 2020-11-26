@@ -1,15 +1,14 @@
-## Hello, I'm Sonal Das 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Sonal Das</h1>
+<h3 align="center">Full Stack Developer, Public Speaker and Netflix binge-watcher!</h3>
 
-## I'm a Full Stack Developer, Public Speaker and Netflix binge-watcher!
-
-- :pill: I’m currently working at Highmark Health as a Full Stack Developer (Django + React)
-- :money_with_wings: I worked with Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)
-- :computer: I worked with Tata Consultancy Limited as a Systems Engineer (Microsoft SharePoint Web Solution Provider)
+- :pill: I’m currently working at **Highmark Health as a Full Stack Developer (Django + React)**
+- :money_with_wings: I worked with **Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)**
+- :computer: I worked with **Tata Consultancy Limited as a Systems Engineer (Microsoft SharePoint Web Solution Provider)**
 - 👯 I’m looking to collaborate with other Full Stack Developers
 - 🥅 2020 Goals: Develop industry specific (Finance/Healthcare) Full Stack web projects
-- ⚡ Fun facts: I enjoy public speaking and am currently a CC4 Level speaker at Toastmasters
+- ⚡ Fun facts: I enjoy **public speaking** and am currently a **CC4 Level speaker at Toastmasters**
 
-### Connect with me:
+### Open for networking:
 
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -25,6 +24,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][LinkedIn]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][LinkedIn]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][LinkedIn]
+[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][LinkedIn]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][LinkedIn]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][LinkedIn]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][LinkedIn]
