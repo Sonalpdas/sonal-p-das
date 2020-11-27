@@ -65,8 +65,10 @@
 
 </details>
 
-<img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true&count_private=true&card_width=200&layout=compact" />
-<img width="" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonal-p-das&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonal-p-das&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
 
 [HighmarkLinkedIn]: http://vsCodeHero.com
 [Gmail]: sonald@alumni.cmu.edu
