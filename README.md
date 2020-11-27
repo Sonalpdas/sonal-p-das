@@ -1,12 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Sonal Das</h1>
 <h3 align="center">Full Stack Developer, Public Speaker and Netflix binge-watcher!</h3>
 
+<p  align="right"><img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" style="float: right" alt="Coder GIF" width="200" height="200"></p>
+
 - :pill: I’m currently working at **Highmark Health as a Full Stack Developer (Django + React)**
 - :money_with_wings: I worked with **Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)**
 - :computer: I worked with **Tata Consultancy Limited as a Systems Engineer (Microsoft SharePoint Web Solution Provider)**
 - 👯 I’m looking to collaborate with other Full Stack Developers
 - 🥅 2020 Goals: Develop industry specific (Finance/Healthcare) Full Stack web projects
 - ⚡ Fun facts: I enjoy **public speaking** and am currently a **CC4 Level speaker at Toastmasters**
+
 
 ### Open for networking
 
@@ -17,7 +20,7 @@
 <br />
 
 ### Languages and Tools:
-|
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" />][LinkedIn]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][LinkedIn]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][LinkedIn]
@@ -33,9 +36,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][LinkedIn]
 [<img align="left" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" />][LinkedIn]
 [<img align="left" alt="SharePoint" width="26px" src="https://developer.microsoft.com/en-us/office/blogs/wp-content/uploads/2019/03/SharePoint.256x256x32-100x100.png" />][LinkedIn]
-|
-<p  align="right"><img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" alt="Coder GIF" width="200" height="200">
-|
+
 <br />
 <br />
 
