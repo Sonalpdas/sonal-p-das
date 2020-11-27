@@ -2,14 +2,14 @@
 <h3 align="center">Full Stack Developer, Public Speaker and Netflix binge-watcher!</h3>
 
 <p  align="right"><img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" style="float: right" alt="Coder GIF" width="200" height="200"></p>
-
+<span style="width: 70%">
 - :pill: I’m currently working at **Highmark Health as a Full Stack Developer (Django + React)**
 - :money_with_wings: I worked with **Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)**
 - :computer: I worked with **Tata Consultancy Limited as a Systems Engineer (Microsoft SharePoint Web Solution Provider)**
 - 👯 I’m looking to collaborate with other Full Stack Developers
 - 🥅 2020 Goals: Develop industry specific (Finance/Healthcare) Full Stack web projects
 - ⚡ Fun facts: I enjoy **public speaking** and am currently a **CC4 Level speaker at Toastmasters**
-
+</span>
 
 ### Open for networking
 
