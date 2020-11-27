@@ -68,17 +68,6 @@
 <img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true&count_private=true" />
 <img width="" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonal-p-das&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
----
-
-<details>
-    <summary>:zap: Reference Resources</summary>
-<!--START_SECTION:activity-->
-
-- [codeSTACKr - GITHUB PROFILE README](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md)
-- [Anurag Hazra - GITHUB README STATS](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:activity-->
-</details>
-
 [HighmarkLinkedIn]: http://vsCodeHero.com
 [Gmail]: sonald@alumni.cmu.edu
 [linkedin]: https://www.linkedin.com/in/sonalpdas/
