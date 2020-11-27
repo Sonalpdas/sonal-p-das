@@ -65,7 +65,7 @@
 
 </details>
 
-<img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true&count_private=true&&card_width=300" />
+<img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true&count_private=true&card_width=300" />
 <img width="" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonal-p-das&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
 [HighmarkLinkedIn]: http://vsCodeHero.com
