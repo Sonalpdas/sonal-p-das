@@ -9,10 +9,7 @@
 - 👯 I’m looking to collaborate with other Full Stack Developers
 - 🥅 2020 Goals: Develop industry specific (Finance/Healthcare) Full Stack web projects
 - ⚡ Fun facts: I enjoy **public speaking** and am currently a **CC4 Level speaker at Toastmasters**
-```
 
-<img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="200" height="200">
-```
 
 ### Open for networking
 
