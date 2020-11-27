@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Sonal Das</h1>
 <h3 align="center">Full Stack Developer, Public Speaker and Netflix binge-watcher!</h3>
 
-<img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" style="float: right" alt="Coder GIF" width="200" height="200">
+<img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="200" height="200">
 
 - :pill: I’m currently working at **Highmark Health as a Full Stack Developer (Django + React)**
 - :money_with_wings: I worked with **Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)**
@@ -11,7 +11,7 @@
 - ⚡ Fun facts: I enjoy **public speaking** and am currently a **CC4 Level speaker at Toastmasters**
 ```
 
-<img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" style="float: right" alt="Coder GIF" width="200" height="200">
+<img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="200" height="200">
 ```
 
 ### Open for networking
