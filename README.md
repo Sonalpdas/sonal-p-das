@@ -54,6 +54,8 @@
 
 ---
 
+### Recent GitHub Activity
+
 <!--START_SECTION:activity-->
 1. 💪 Created a React app repo 
 2. 💪 Created a Django-React app repo
