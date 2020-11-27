@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Sonal Das</h1>
 <h3 align="center">Full Stack Developer, Public Speaker and Netflix binge-watcher!</h3>
 
-<img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="150" height="150">
+<img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="180" height="180">
 
 - :pill: I’m currently working at **Highmark Health as a Full Stack Developer (Django + React)**
 - :money_with_wings: I worked with **Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)**
@@ -65,10 +65,8 @@
 
 </details>
 
-<details>
-    <summary>:zap: Recent Github Stats</summary>
-    <img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true&count_private=true" />
-</details>
+<img align="left" alt="Sonal-p-das GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sonal-p-das&show_icons=true&hide_border=true&count_private=true" />
+<img width="" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonal-p-das&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
 ---
 
