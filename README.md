@@ -1,4 +1,4 @@
-<h1><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwave-emoji-gifs&psig=AOvVaw2fLSUrA9oFD5bpv_pCeIzy&ust=1606929467296000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICAtvKkre0CFQAAAAAdAAAAABAD" width="40px">, I'm Sonal Das</h1>
+<h1 align="center"><img src="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012" width="40px">, I'm Sonal Das</h1>
 <h3 align="center">Full Stack Developer, Public Speaker and Netflix binge-watcher!</h3>
 
 <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="180" height="180">
