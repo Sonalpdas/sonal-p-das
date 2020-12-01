@@ -1,4 +1,4 @@
-<img aligh="left" src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="150px"/>, 'm Sonal Das
+<img aligh="left" src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="100px"/><h1>, I'm Sonal Das</h1>
 <h3 align="center">Full Stack Developer, Public Speaker and Netflix binge-watcher!</h3>
 
 <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="180" height="180">
