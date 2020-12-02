@@ -9,8 +9,8 @@ function readWriteAsync() {
           throw err;
         }
 
-        let currImage = "<img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="180" height="180">";
-        let newImage = "<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" align="right" alt="Coder GIF" width="180" height="180">";
+        let currImage = '<img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="180" height="180">';
+        let newImage = '<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" align="right" alt="Coder GIF" width="180" height="180">';
         
         const updatedMd = data.replace(currImage,
           newImage
