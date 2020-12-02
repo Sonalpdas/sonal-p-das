@@ -67,6 +67,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonal-p-das&layout=compact&theme=buefy&hide_border=true" alt="languages" height="165">
 </p>
 
+![Build README](https://github.com/sonal-p-das/sonal-p-das/workflows/Build%20README/badge.svg)
+
 [HighmarkLinkedIn]: http://vsCodeHero.com
 [Gmail]: sonald@alumni.cmu.edu
 [linkedin]: https://www.linkedin.com/in/sonalpdas/
